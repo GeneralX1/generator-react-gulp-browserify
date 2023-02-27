@@ -33,7 +33,7 @@
   ],
   "dependencies": {
     "yeoman-generator": "~5.0.0",
-    "chalk": "~0.4.0",
+    "chalk": "~0.5.1",
     "@snyk/protect": "latest"
   },
   "devDependencies": {
